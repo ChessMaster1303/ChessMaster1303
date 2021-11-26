@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence (specifically Machine Learning), Python (which is also my preferred language of development, because I do not know any others, besides some basic Web Development languages) and Web Development.
 - 🌱 I’m currently learning Python, Data Science (also through Python), and Web Development languages (HTML, CSS, JavaScript etc.).
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development with In-Real-Life Friends.
-- 📫 How to reach me: No official method right now, but maybe there will be an option to comment on my GitHub profile.
+- 📫 How to reach me: There's no method for now, but maybe if I manage to have an email for this, I'll put it in.
 
 <!---
 ChessMaster1303/ChessMaster1303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
